@@ -12,7 +12,4 @@ Projeto criado para fins de estudo e prática no desenvolvimento mobile.
 - Lista de habilidades
 - Informações de contato
 
-## Objetivo
-Projeto criado para fins de estudo e prática no desenvolvimento mobile.
-
 ---
